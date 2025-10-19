@@ -1,0 +1,16 @@
+// Config Command 
+
+1. git config --global user.name "Anubhav Singh"
+2. git config --global user.email "anubhav@example.com"
+3. git config --global --list
+
+//Clone Repository
+
+1. git clone <<"Repository URL">>
+Example : - git clone https://github.com/anubhav-singh-dev/solid-meme.git
+
+// Git Command 
+1. git  init
+2. git add first.txt (git add likhne ke bad tab press karo or jab vo file a jaye jise push karna hai tan enter press kar do)
+
+Example 
