@@ -4,13 +4,23 @@
 2. git config --global user.email "anubhav@example.com"
 3. git config --global --list
 
+----------------------------------------------------------------------
+
 //Clone Repository
 
 1. git clone <<"Repository URL">>
 Example : - git clone https://github.com/anubhav-singh-dev/solid-meme.git
 
+------------------------------------------------------------------------
+
 // Git Command 
+
 1. git  init
 2. git add first.txt (git add likhne ke bad tab press karo or jab vo file a jaye jise push karna hai tan enter press kar do)
 
-Example 
+Example: -   git add .\first.txt
+
+3. git commit -m "first commit"
+4. git branch -M main (ye command hai branch ka nam change karne ke lie)
+5. git remote add origin https://github.com/anubhav-singh-dev/solid-meme
+6. git push -u origin main
