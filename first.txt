@@ -24,3 +24,8 @@ Example: -   git add .\first.txt
 4. git branch -M main (ye command hai branch ka nam change karne ke lie)
 5. git remote add origin https://github.com/anubhav-singh-dev/solid-meme
 6. git push -u origin main
+
+----------------------------------------------------------------
+
+// remote replace error
+1. git remote set-url origin https://github.com/anubhav-singh-dev/solid-meme.git
